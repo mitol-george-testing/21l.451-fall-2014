@@ -1,0 +1,40 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Film and Video"
+    ],
+    [
+      "Humanities",
+      "Philosophy"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Humanities",
+      "Literature"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "74516445-898e-1e75-b25c-4fabca94fe23"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Literary Theory",
+  "course_description": "This subject examines the ways in which we read. It introduces some important strategies for engaging with literary texts developed in the twentieth century, paying special attention to poststructuralist theories and their legacy. The course is organized around specific theoretical paradigms. In general, we will: (1) work through the selected readings in order to see how they construe what literary interpretation is; (2) locate the limits of each particular approach; and (3) trace the emergence of subsequent theoretical paradigms as responses to what came before.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.451",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
